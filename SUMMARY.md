@@ -1,9 +1,10 @@
 # Table of contents
 
+* [Introduction](README.md)
 * Initial page
 * 骑士计划
-  * [什么是骑士计划？](qi-shi-ji-hua/shen-me-shi-qi-shi-ji-hua.md)
-  * [有什么不同](qi-shi-ji-hua/you-shen-me-bu-tong.md)
+  * [什么是骑士计划？](qi-shi-ji-hua/shi-mo-shi-qi-shi-ji-hua.md)
+  * [有什么不同？](qi-shi-ji-hua/you-shi-mo-bu-tong.md)
   * [如何参与骑士计划](qi-shi-ji-hua/ru-he-can-yu-qi-shi-ji-hua.md)
   * [我要报名](qi-shi-ji-hua/wo-yao-bao-ming.md)
 * 实体班课程问题
@@ -15,9 +16,9 @@
   * [包食宿吗？](shi-ti-ban-ke-cheng-wen-ti/bao-shi-su-ma.md)
   * [是否有毕业证？](shi-ti-ban-ke-cheng-wen-ti/shi-fou-you-bi-ye-zheng.md)
   * [能否先预留座位后面再报名？](shi-ti-ban-ke-cheng-wen-ti/neng-fou-xian-yu-liu-zuo-wei-hou-mian-zai-bao-ming.md)
-  * [学费怎么涨价了？](shi-ti-ban-ke-cheng-wen-ti/xue-fei-zen-me-zhang-jia-le.md)
+  * [学费怎么涨价了？](shi-ti-ban-ke-cheng-wen-ti/xue-fei-zen-mo-zhang-jia-liao.md)
   * [学不会可以退款吗？](shi-ti-ban-ke-cheng-wen-ti/xue-bu-hui-ke-yi-tui-kuan-ma.md)
-  * [上课时间怎么安排的？](shi-ti-ban-ke-cheng-wen-ti/shang-ke-shi-jian-zen-me-an-pai-de.md)
+  * [上课时间怎么安排的？](shi-ti-ban-ke-cheng-wen-ti/shang-ke-shi-jian-zen-mo-an-pai-de.md)
   * [学校地址在哪儿？](shi-ti-ban-ke-cheng-wen-ti/xue-xiao-di-zhi-zai-na-er.md)
 * 周末班课程问题
   * 周末班和全日制班区别
@@ -27,15 +28,15 @@
   * 就业故事
 * [讲师介绍](jiang-shi-jie-shao.md)
 * 【必读】屌丝如何逆袭？
-  * [哥们别逗了，写个脚本那真不叫运维自动化!](alex-ji-tang-shi-xiong-fen-xiang/ge-men-bie-dou-le-xie-ge-jiao-ben-na-zhen-bu-jiao-yun-wei-zi-dong-hua.md)
-  * [普通运维人员就是秋后的蚂蚱！](alex-ji-tang-shi-xiong-fen-xiang/pu-tong-yun-wei-ren-yuan-jiu-shi-qiu-hou-de-ma.md)
-  * [编程要自学或报班这事你都想不明白，那必然是你智商不够](alex-ji-tang-shi-xiong-fen-xiang/2222.md)
-  * [白领如何才能买得起Tesla电动车?](alex-ji-tang-shi-xiong-fen-xiang/3333.md)
-  * [关于认识、格局、多维度发展的感触](alex-ji-tang-shi-xiong-fen-xiang/guan-yu-ren-shi-ge-ju-duo-wei-du-fa-zhan-de-gan-chu.md)
-  * [给一位做技术迷茫的同学回信](alex-ji-tang-shi-xiong-fen-xiang/222.md)
-  * [不敢想](alex-ji-tang-shi-xiong-fen-xiang/bu-gan-xiang.md)
+  * [哥们别逗了，写个脚本那真不叫运维自动化!](bi-du-diao-si-ru-he-ni-xi/ge-men-bie-dou-liao-xie-ge-jiao-ben-na-zhen-bu-jiao-yun-wei-zi-dong-hua.md)
+  * [普通运维人员就是秋后的蚂蚱！](bi-du-diao-si-ru-he-ni-xi/pu-tong-yun-wei-ren-yuan-jiu-shi-qiu-hou-de-ma-zha.md)
+  * [编程要自学或报班这事你都想不明白，那必然是你智商不够](bi-du-diao-si-ru-he-ni-xi/bian-cheng-yao-zi-xue-huo-bao-ban-zhe-shi-ni-du-xiang-bu-ming-bai-na-bi-ran-shi-ni-zhi-shang-bu-gou.md)
+  * [白领如何才能买得起Tesla电动车?](bi-du-diao-si-ru-he-ni-xi/bai-ling-ru-he-cai-neng-mai-de-qi-tesla-dian-dong-che.md)
+  * [关于认识、格局、多维度发展的感触](bi-du-diao-si-ru-he-ni-xi/guan-yu-ren-shi-ge-ju-duo-wei-du-fa-zhan-de-gan-chu.md)
+  * [给一位做技术迷茫的同学回信](bi-du-diao-si-ru-he-ni-xi/gei-yi-wei-zuo-ji-shu-mi-mang-de-tong-xue-hui-xin.md)
+  * [不敢想](bi-du-diao-si-ru-he-ni-xi/bu-gan-xiang.md)
 * 师兄分享
-  * [【学员分享】我的学习之路](shi-xiong-fen-xiang/xue-yuan-gu-shi-1.md)
-  * [【学员分享】学习碎碎念](shi-xiong-fen-xiang/2.md)
-  * [【学员分享】31岁印刷厂美工转型Python](shi-xiong-fen-xiang/3.md)
+  * [【学员分享】我的学习之路](shi-xiong-fen-xiang/xue-yuan-fen-xiang-wo-de-xue-xi-zhi-lu.md)
+  * [【学员分享】学习碎碎念](shi-xiong-fen-xiang/xue-yuan-fen-xiang-xue-xi-sui-sui-nian.md)
+  * [【学员分享】31岁印刷厂美工转型Python](shi-xiong-fen-xiang/xue-yuan-fen-xiang-31-sui-yin-shua-chang-mei-gong-zhuan-xing-python.md)
 
