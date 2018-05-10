@@ -2,7 +2,7 @@
 
 * Initial page
 * 骑士计划
-  * [什么是骑士计划](qi-shi-ji-hua/shen-me-shi-qi-shi-ji-hua.md)
+  * [什么是骑士计划？](qi-shi-ji-hua/shen-me-shi-qi-shi-ji-hua.md)
   * [有什么不同](qi-shi-ji-hua/you-shen-me-bu-tong.md)
   * [如何参与骑士计划](qi-shi-ji-hua/ru-he-can-yu-qi-shi-ji-hua.md)
   * [我要报名](qi-shi-ji-hua/wo-yao-bao-ming.md)
