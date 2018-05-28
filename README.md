@@ -33,7 +33,7 @@
 
 [讲师介绍](https://www.luffycity.com/qsjh-book/techers.html)
 
-【必读】屌丝如何逆袭？
+[【必读】屌丝如何逆袭？](https://www.luffycity.com/qsjh-book/soul/)
 
 - [哥们别逗了，写个脚本那真不叫运维自动化!](https://www.luffycity.com/qsjh-book/soul/chapter01.html)
 - [普通运维人员就是秋后的蚂蚱！](https://www.luffycity.com/qsjh-book/soul/chapter02.html)
@@ -43,7 +43,7 @@
 - [给一位做技术迷茫的同学回信](https://www.luffycity.com/qsjh-book/soul/chapter06.html)
 - [不敢想](https://www.luffycity.com/qsjh-book/soul/chapter07.html)
 
-师兄分享
+[师兄分享](https://www.luffycity.com/qsjh-book/bro/)
 - [【学员分享】我的学习之路](https://www.luffycity.com/qsjh-book/bro/chapter01.html)
 - [【学员分享】学习碎碎念](https://www.luffycity.com/qsjh-book/bro/chapter02.html)
 - [【学员分享】31岁印刷厂美工转型Python](https://www.luffycity.com/qsjh-book/bro/chapter03.html)
