@@ -17,7 +17,7 @@
   * [学不会可以退款吗？](question/chapter08.md)
   * [上课时间怎么安排的？](question/chapter09.md)
   * [学校地址在哪儿？](question/chapter10.md)
-* [周末班课程问题](zhou-mo-ban-ke-cheng-wen-ti/README.md)
+* [周末班课程问题](wquestion/README.md)
   * 周末班和全日制班区别
   * 周末班学习周期多长
 * [就业板块](jiu-ye-ban-kuai/README.md)
