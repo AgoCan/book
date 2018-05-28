@@ -26,9 +26,6 @@
   * [开设班型](wquestion/chapter04.md)
   * [周末班学习时间安排](wquestion/chapter05.md)
   * [适应人群](wquestion/chapter06.md)
-* [就业板块](jiu-ye-ban-kuai/README.md)
-  * 就业薪资
-  * 就业故事
 * [讲师介绍](techers.md)
 * [【必读】屌丝如何逆袭？](soul/README.md)
   * [哥们别逗了，写个脚本那真不叫运维自动化!](soul/chapter01.md)

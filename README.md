@@ -29,9 +29,6 @@
 - [周末班学习时间安排](https://www.luffycity.com/qsjh-book/wquestion/chapter05.html)
 - [适应人群](https://www.luffycity.com/qsjh-book/wquestion/chapter06.html)
 
-就业板块
-- 就业薪资
-- 就业故事
 
 [讲师介绍](https://www.luffycity.com/qsjh-book/techers.html)
 
