@@ -54,9 +54,9 @@
 有几个学生很为难，不愿意给，说怕泄漏隐私，我说，放心，不会写真名的，只写xx同学，还是不愿意，  
 最后才说出来，说怕让别人知道自己是培训出来的。  
 
-![](https://hcdn1.luffycity.com/data/knight/static/08.png)  
+![](https://hcdn1.luffycity.com/data/knight/08.png)  
 
-![](https://hcdn1.luffycity.com/data/knight/static/09.png)  
+![](https://hcdn1.luffycity.com/data/knight/09.png)  
 
 上面2个同学，一个在小米，一个在汽车之家。  
 
@@ -76,7 +76,7 @@
 
 我们的讲师天天如此拼命工作，到头来却发现，所从事的行当竟变成了过街老鼠，人人喊打。  
 
-![](https://hcdn1.luffycity.com/data/knight/static/10.png)  
+![](https://hcdn1.luffycity.com/data/knight/10.png)  
 ![](https://hcdn1.luffycity.com/data/knight/11.png)  
 
 我们的学员如此努力的学习，最后出去找工作竟然要靠隐瞒培训经历方能得到面试机会。  
