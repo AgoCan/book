@@ -5,6 +5,8 @@
   * [什么是骑士计划？](knight/chapter01.md)
   * [有什么不同？](knight/chapter02.md)
   * [如何参与骑士计划](knight/chapter03.md)
+  * [开设班型](knight/chapter04.md)
+  * [开班日期](knight/chapter05.md)
 * [实体班课程问题](question/README.md)
   * [能试听吗？](question/chapter01.md)
   * [0基础可以学得会吗？](question/chapter02.md)
