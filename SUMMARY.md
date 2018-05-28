@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
+* [为什么公司不愿意要培训机构出来的学生？](advertorial.md)
 * [骑士计划](knight/README.md)
   * [什么是骑士计划？](knight/chapter01.md)
   * [有什么不同？](knight/chapter02.md)
