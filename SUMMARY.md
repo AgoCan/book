@@ -2,11 +2,10 @@
 
 * [Introduction](README.md)
 * Initial page
-* [骑士计划](qi-shi-ji-hua/README.md)
-  * [什么是骑士计划？](qi-shi-ji-hua/shi-mo-shi-qi-shi-ji-hua.md)
-  * [有什么不同？](qi-shi-ji-hua/you-shi-mo-bu-tong.md)
-  * [如何参与骑士计划](qi-shi-ji-hua/ru-he-can-yu-qi-shi-ji-hua.md)
-  * [我要报名](qi-shi-ji-hua/wo-yao-bao-ming.md)
+* [骑士计划](knight/README.md)
+  * [什么是骑士计划？](knight/part01.md)
+  * [有什么不同？](knight/part02.md)
+  * [如何参与骑士计划](knight/part03.md)
 * [实体班课程问题](shi-ti-ban-ke-cheng-wen-ti/README.md)
   * [能试听吗？](shi-ti-ban-ke-cheng-wen-ti/neng-shi-ting-ma.md)
   * [0基础可以学得会吗？](shi-ti-ban-ke-cheng-wen-ti/0-ji-chu-ke-yi-xue-de-hui-ma.md)
@@ -39,4 +38,3 @@
   * [【学员分享】我的学习之路](shi-xiong-fen-xiang/xue-yuan-fen-xiang-wo-de-xue-xi-zhi-lu.md)
   * [【学员分享】学习碎碎念](shi-xiong-fen-xiang/xue-yuan-fen-xiang-xue-xi-sui-sui-nian.md)
   * [【学员分享】31岁印刷厂美工转型Python](shi-xiong-fen-xiang/xue-yuan-fen-xiang-31-sui-yin-shua-chang-mei-gong-zhuan-xing-python.md)
-
