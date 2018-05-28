@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Introduction](README.md)
-* Initial page
 * [骑士计划](knight/README.md)
   * [什么是骑士计划？](knight/chapter01.md)
   * [有什么不同？](knight/chapter02.md)
@@ -23,7 +22,7 @@
 * [就业板块](jiu-ye-ban-kuai/README.md)
   * 就业薪资
   * 就业故事
-* [讲师介绍](jiang-shi-jie-shao.md)
+* [讲师介绍](techers.md)
 * [【必读】屌丝如何逆袭？](bi-du-diao-si-ru-he-ni-xi/README.md)
   * [哥们别逗了，写个脚本那真不叫运维自动化!](bi-du-diao-si-ru-he-ni-xi/ge-men-bie-dou-liao-xie-ge-jiao-ben-na-zhen-bu-jiao-yun-wei-zi-dong-hua.md)
   * [普通运维人员就是秋后的蚂蚱！](bi-du-diao-si-ru-he-ni-xi/pu-tong-yun-wei-ren-yuan-jiu-shi-qiu-hou-de-ma-zha.md)
