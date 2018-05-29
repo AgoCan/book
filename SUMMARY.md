@@ -35,7 +35,7 @@
   * [关于认识、格局、多维度发展的感触](soul/chapter05.md)
   * [给一位做技术迷茫的同学回信](soul/chapter06.md)
   * [不敢想](soul/chapter07.md)
-* [师兄分享](bro/README.md)
+* [【热】师兄分享](bro/README.md)
   * [【学员分享】我的学习之路](bro/chapter01.md)
   * [【学员分享】学习碎碎念](bro/chapter02.md)
   * [【学员分享】31岁印刷厂美工转型Python](bro/chapter03.md)
