@@ -27,7 +27,7 @@
   * [周末班学习时间安排](wquestion/chapter05.md)
   * [适应人群](wquestion/chapter06.md)
 * [讲师介绍](techers.md)
-* [【必读】屌丝如何逆袭？](soul/README.md)
+* [【必读】如何逆袭？](soul/README.md)
   * [哥们别逗了，写个脚本那真不叫运维自动化!](soul/chapter01.md)
   * [普通运维人员就是秋后的蚂蚱！](soul/chapter02.md)
   * [编程要自学或报班这事你都想不明白，那必然是你智商不够](soul/chapter03.md)
