@@ -1,5 +1,5 @@
 ### 骑士计划
-[为什么公司不愿意要培训机构出来的学生？](https://www.luffycity.com/qsjh-book/advertorial/)
+[为什么公司不愿意要培训机构出来的学生？](https://www.luffycity.com/qsjh-book/advertorial.html)
 
 [骑士计划](https://www.luffycity.com/qsjh-book/knight/)
 - [什么是骑士计划？](https://www.luffycity.com/qsjh-book/knight/chapter01.html)
