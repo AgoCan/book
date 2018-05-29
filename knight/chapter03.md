@@ -14,4 +14,6 @@
 \* 面试环节，由讲师1v1谈话面试  
 
 
-**[入学申请]（http://luffcity.mikecrm.com/V4uJVH8）**
+**[入学申请](http://luffcity.mikecrm.com/V4uJVH8)**
+
+
