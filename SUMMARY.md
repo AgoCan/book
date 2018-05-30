@@ -7,7 +7,7 @@
   * [有什么不同](knight/chapter02.md)
   * [如何参与骑士计划](knight/chapter03.md)
   * [开设班型](knight/chapter04.md)
-  * [开班日期](knight/chapter05.md)
+  * [课程大唐](https://hcdn1.luffycity.com/data/knight/骑士计划-课程大纲.pdf)
 * [脱产班课程问题](question/README.md)
   * [能试听吗](question/chapter01.md)
   * [0基础可以学得会吗](question/chapter02.md)
