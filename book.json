@@ -48,9 +48,6 @@
         "css": [
             "prism-themes/themes/prism-base16-ateliersulphurpool.light.css"
         ]
-    },
-    "styles": {
-      "website": "website.css",
-      }
+    }
   }
 }
