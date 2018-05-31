@@ -4,11 +4,11 @@
 我了个去，尽是对培训机构排山倒海的谩骂声，  
 负面评价不胜枚举，
 
-![](./static/05.png)  
+![](https://hcdn1.luffycity.com/data/knight/05.png)  
 
-![](./static/06.png)  
+![](https://hcdn1.luffycity.com/data/knight/06.png)  
 
-![](./static/07.png)  
+![](https://hcdn1.luffycity.com/data/knight/07.png)  
 
 
 
