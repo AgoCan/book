@@ -15,6 +15,8 @@
 
 ![](./static/07.png)  
 
+
+
 看完久久不能释怀，心里堵的慌，
 
 又委屈又气愤又无奈，
@@ -104,9 +106,10 @@
 
 最后才说出来，说怕让别人知道自己是培训出来的。
 
-![](https://hcdn1.luffycity.com/data/knight/08.png)  
 
-![](https://hcdn1.luffycity.com/data/knight/09.png)  
+
+<img src="https://hcdn1.luffycity.com/data/knight/08.png" width = "300" height = "500" alt="01" align=center />
+<img src="https://hcdn1.luffycity.com/data/knight/09.png" width = "300" height = "500" alt="01" align=center />
 
 上面2个同学，一个在小米，一个在汽车之家。
 
@@ -143,8 +146,10 @@
 
 我们的讲师天天如此拼命工作，到头来却发现，所从事的行当竟变成了过街老鼠，人人喊打。
 
-![](https://hcdn1.luffycity.com/data/knight/10.png)  
-![](https://hcdn1.luffycity.com/data/knight/11.png)  
+ <img src="https://hcdn1.luffycity.com/data/knight/10.png" width = "300" height = "500" alt="01" align=center />
+ <img src="https://hcdn1.luffycity.com/data/knight/11.png" width = "300" height = "500" alt="01" align=center />
+
+
 
 我们的学员如此努力的学习，最后出去找工作竟然要靠隐瞒培训经历+包装简历方能得到面试机会。
 
