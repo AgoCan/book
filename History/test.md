@@ -1,5 +1,7 @@
+
+
 {% raw %}
-<video id="my-video" class="video-js" controls preload="auto" width="100%"
+<video id="my-video"  class="video-js" controls preload="auto" width="100%" height=100%
 poster="https://zhangjikai.com/resource/poster.jpg" data-setup='{"aspectRatio":"16:9"}'>
   <source src="https://www.luffycity.com/data/video/01.mp4" type='video/mp4' >
   <p class="vjs-no-js">
