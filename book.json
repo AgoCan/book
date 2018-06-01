@@ -24,7 +24,8 @@
     "search-pro",
     "prism",
     "prism-themes",
-    "theme-comscore"
+    "theme-comscore",
+    "local-video"
 
   ],
   "pluginsConfig": {
