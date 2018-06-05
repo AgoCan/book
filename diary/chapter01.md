@@ -58,3 +58,5 @@ ok~到了酒店已是傍晚。明天，正式去找办公室/教室！
 ![](https://hcdn1.luffycity.com/data/knight/diary/07.jpg)
 
 另：广而告之，老男孩深圳分校-骑士计划脱产班8月1日开班，周末班8月5日开班。首期班有3000元奖学金，和早鸟优惠礼包。名额有限，报名从速~~
+
+[点击咨询](http://wwwtb.53kf.com/webCompany.php?style=1&arg=10155416)
