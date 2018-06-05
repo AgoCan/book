@@ -184,4 +184,4 @@
 
 ![](https://hcdn1.luffycity.com/data/knight/12.png)
 
-[详情](http://wwwtb.53kf.com/webCompany.php?style=1&arg=10155416)
+[点击咨询](http://wwwtb.53kf.com/webCompany.php?style=1&arg=10155416)
