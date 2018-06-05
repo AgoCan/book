@@ -1,7 +1,7 @@
 # Table of contents
 
 * [目录](README.md)
-* [【! 热】分校日记](diary/README.md)
+* [【 ! 热】分校日记](diary/README.md)
   * [第一天](diary/chapter01.md)
   * [待续...](d)
 * [为什么公司不愿意要培训机构出来的学生？](advertorial.md)
