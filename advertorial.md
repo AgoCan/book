@@ -182,6 +182,11 @@
 ----------------------
 噢 ，这个新品牌，将随老男孩深圳新校区8月首发，符合《骑士计划》标准的第1个课程《Python全栈开发＋人工智能》将在8.1号深圳新校区开班，愿你能成为第一批骑士。  
 
-![](https://hcdn1.luffycity.com/data/knight/12.png)
+![](https://hcdn1.luffycity.com/data/knight/12.png)  
 
 [点击咨询](http://wwwtb.53kf.com/webCompany.php?style=1&arg=10155416)
+
+
+
+
+        
