@@ -71,7 +71,7 @@ ok~到了酒店已是傍晚。明天，正式去找办公室/教室！
 
 
 ***
-### 骑士计划
+### 骑士计划目录
 
 [【! 热】分校日记](https://www.luffycity.com/qsjh-book/diary/)
 - [第一天](https://www.luffycity.com/qsjh-book/diary/chapter01.html)
