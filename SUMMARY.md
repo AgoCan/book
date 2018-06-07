@@ -3,6 +3,7 @@
 * [目录](README.md)
 * [【 ! 热】分校日记](diary/README.md)
   * [第一天](diary/chapter01.md)
+  * [第二天](diary/chapter02.md)
   * [待续...]()
 * [为什么公司不愿意要培训机构出来的学生？](advertorial.md)
 * [骑士计划](knight/README.md)
