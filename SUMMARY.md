@@ -38,7 +38,7 @@
   * [【学员就业】Part04](jobs/chapter04.md)
   * [【学员就业】Part05](jobs/chapter05.md)
   * [【学员就业】Part06](jobs/chapter06.md)
-  * [【学员就业】Part07](jobs/chapter07.md)
+  * [【学员就业】Part07]()
   * [【学员就业】Part08](jobs/chapter08.md)
 * [【必读】如何逆袭](soul/README.md)
   * [哥们别逗了，写个脚本那真不叫运维自动化!](soul/chapter01.md)
