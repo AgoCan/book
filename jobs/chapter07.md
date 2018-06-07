@@ -1,4 +1,4 @@
-![](https://www.luffycity.com/data/knight/img/023.jpg)
+![](https://www.luffycity.com/data/knight/img/02322.jpg)
 ***
 ***
 ![](https://www.luffycity.com/data/knight/img/023-1.png)
