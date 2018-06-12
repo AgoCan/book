@@ -1,4 +1,4 @@
-### #分校日记04#听说深圳要过来一位小姐姐
+### #分校日记06#听说深圳要过来一位小姐姐
 *2018.06.08*
 
 听说深圳要过来一位小姐姐，(\*@ο@\*) 哇～哇～哇～
@@ -87,13 +87,40 @@ Last，如果你身边有需要学习Python的朋友欢迎介绍哦~你和对方
 
 ***
 
+对了，想要一本《Python全栈开发实战》吗？  
+
+![](https://hcdn1.luffycity.com/static/frontend/activity/givingbook4_1522138118.932145.jpeg)  
+
+和他们一样  
+
+![](https://hcdn1.luffycity.com/static/frontend/activity/givingbook3_1522138119.6417637.jpeg)  
+
+对了，如果不想要书，还有比较帅的体恤衫
+
+![](https://hcdn1.luffycity.com/data/knight/diary/04/10.png)  
+
+怎么获得？
+
+很简单，**转发下方海报并收集超过20个赞即可获得！**
+
+等一等....你以为这样就完了？
+
+如果积累转发**超过3次**海报（海报接下来会同步更新），并完成点赞。您可以额外获得**1000元奖学金**哦~（可与现有优惠叠加享有）
+
+完成以上步骤可加我微信653754835 获取书籍等相应奖励
+
+![](https://hcdn1.luffycity.com/data/knight/diary/04/11.png)  
+
+![](https://hcdn1.luffycity.com/data/knight/diary/04/12.png)  
+
 ### 骑士计划目录
 
 [【! 热】分校日记](https://www.luffycity.com/qsjh-book/diary/)
 - [第一天](https://www.luffycity.com/qsjh-book/diary/chapter01.html)
 - [第二天](https://www.luffycity.com/qsjh-book/diary/chapter02.html)
-- [第三天](https://www.luffycity.com/qsjh-book/diary/chapter03.html)
-- [第四天](https://www.luffycity.com/qsjh-book/diary/chapter04.html)
+- [第四天](https://www.luffycity.com/qsjh-book/diary/chapter03.html)
+- [第六天](https://www.luffycity.com/qsjh-book/diary/chapter04.html)
+
 
 [为什么公司不愿意要培训机构出来的学生？](https://www.luffycity.com/qsjh-book/advertorial.html)
 
