@@ -117,6 +117,8 @@ Last，如果你身边有需要学习Python的朋友欢迎介绍哦~你和对方
 
 ![](https://hcdn1.luffycity.com/data/knight/diary/04/12.png)  
 
+ps，请保存原图发送哦（两个海报选择其一即可）
+
 ### 骑士计划目录
 
 [【! 热】分校日记](https://www.luffycity.com/qsjh-book/diary/)
