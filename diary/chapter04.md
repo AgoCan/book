@@ -93,6 +93,10 @@ Last，如果你身边有需要学习Python的朋友欢迎介绍哦~你和对方
 
 和他们一样  
 
+![](https://hcdn1.luffycity.com/static/frontend/activity/givingbook1_1522138119.203927.jpeg)
+
+满满干货
+
 ![](https://hcdn1.luffycity.com/static/frontend/activity/givingbook3_1522138119.6417637.jpeg)  
 
 对了，如果不想要书，还有比较帅的体恤衫
