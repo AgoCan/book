@@ -6,6 +6,7 @@
   * [第二天](diary/chapter02.md)  
   * [第四天](diary/chapter03.md)  
   * [第六天](diary/chapter04.md)  
+  * [第八天](diary/chapter05.md)  
   * [待续...]()
 * [为什么公司不愿意要培训机构出来的学生？](advertorial.md)
 * [骑士计划](knight/README.md)

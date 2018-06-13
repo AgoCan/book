@@ -92,6 +92,8 @@ Anyway，明天继续寻找场地。大家如果有对深圳比较了解，有�
 - [第二天](https://www.luffycity.com/qsjh-book/diary/chapter02.html)
 - [第四天](https://www.luffycity.com/qsjh-book/diary/chapter03.html)
 - [第六天](https://www.luffycity.com/qsjh-book/diary/chapter04.html)
+- [第八天](https://www.luffycity.com/qsjh-book/diary/chapter05.html)
+
 
 [为什么公司不愿意要培训机构出来的学生？](https://www.luffycity.com/qsjh-book/advertorial.html)
 

@@ -1,7 +1,7 @@
 ### #分校日记04#在等我租好办公室？
 *2018.06.07*
 
-不少同学问我，现在办公室还没租好，已经开始报名了？
+不少同学问我，现在办公室还没租好，已经开始报名了？  
 
 是的，已经正式开始报名了。
 
@@ -95,7 +95,7 @@ So，我们来了。
 - [第二天](https://www.luffycity.com/qsjh-book/diary/chapter02.html)
 - [第四天](https://www.luffycity.com/qsjh-book/diary/chapter03.html)
 - [第六天](https://www.luffycity.com/qsjh-book/diary/chapter04.html)
-
+- [第八天](https://www.luffycity.com/qsjh-book/diary/chapter05.html)
 
 [为什么公司不愿意要培训机构出来的学生？](https://www.luffycity.com/qsjh-book/advertorial.html)
 
