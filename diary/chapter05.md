@@ -1,3 +1,4 @@
+<div style="display:none;"><img src="https://hcdn1.luffycity.com/data/knight/diary/04/10.png" alt=""></div>
 ### #分校日记08#听说转发送小姐姐？
 *2018.06.12*  
 
