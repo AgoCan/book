@@ -1,5 +1,6 @@
 ### #分校日记08#听说转发送小姐姐？
-*2018.06.12*
+*2018.06.12*  
+
 别闹~是转发送书~哈哈
 
 ![](https://hcdn1.luffycity.com/data/knight/diary/05/01.jpeg)  
