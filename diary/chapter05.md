@@ -106,6 +106,8 @@ Last
 
 ![](https://hcdn1.luffycity.com/data/knight/diary/05/11.png)
 
+![](https://hcdn1.luffycity.com/data/knight/diary/05/12.png)
+
 ps，请保存原图发送哦
 ***
 
