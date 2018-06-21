@@ -79,7 +79,7 @@ ok~到了酒店已是傍晚。明天，正式去找办公室/教室！
 - [第四天](https://www.luffycity.com/qsjh-book/diary/chapter03.html)
 - [第六天](https://www.luffycity.com/qsjh-book/diary/chapter04.html)
 - [第八天](https://www.luffycity.com/qsjh-book/diary/chapter05.html)
-
+- [有一种鸟，因为它的羽毛太过美丽，所以没有一个地方能关得住它](https://www.luffycity.com/qsjh-book/diary/chapter06.html)  
 
 [为什么公司不愿意要培训机构出来的学生？](https://www.luffycity.com/qsjh-book/advertorial.html)
 
