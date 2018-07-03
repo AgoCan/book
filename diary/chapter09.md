@@ -2,11 +2,11 @@
 
 教室的装修已经如火如荼进行，开课前同学们就可以入场啦~
 
-![](https://hcdn1.luffycity.com/data/knight/diary/08/01.png)  
+![](https://hcdn1.luffycity.com/data/knight/diary/08/01.jpg)  
 
 你以为是这样的？
 
-![](https://hcdn1.luffycity.com/data/knight/diary/08/02.png)  
+![](https://hcdn1.luffycity.com/data/knight/diary/08/02.jpg)  
 
 其实是这样的~~
 
@@ -21,7 +21,7 @@
 SEO/SEM  
 等等等....  
 
-![](https://hcdn1.luffycity.com/data/knight/diary/08/03.png)  
+![](https://hcdn1.luffycity.com/data/knight/diary/08/03.jpg)  
 
 如果你愿意挑战下自己~欢迎来大学城世外桃源创意园C-408，我在这里等你~
 
@@ -50,7 +50,7 @@ SEO/SEM
 
 也许只有少数人会选择通过学习来进化自己。如果你也做出了这样的选择，那我们是同一类人，你并不孤独。
 
-![](https://hcdn1.luffycity.com/data/knight/diary/08/04.png)  
+![](https://hcdn1.luffycity.com/data/knight/diary/08/04.jpg)  
 
 ***
 
