@@ -99,6 +99,7 @@ So，我们来了。
 - [有一种鸟，因为它的羽毛太过美丽，所以没有一个地方能关得住它](https://www.luffycity.com/qsjh-book/diary/chapter06.html)  
 - [你要掌控自己的生活吗？](https://www.luffycity.com/qsjh-book/diary/chapter07.html)  
 - [你是怎样通过学习改变命运的？](https://www.luffycity.com/qsjh-book/diary/chapter08.html)  
+- [努力学习的意义到底在哪里？](https://www.luffycity.com/qsjh-book/diary/chapter09.html)  
 
 [为什么公司不愿意要培训机构出来的学生？](https://www.luffycity.com/qsjh-book/advertorial.html)
 
