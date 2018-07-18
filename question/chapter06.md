@@ -14,16 +14,17 @@
 **整个学习周期下来，餐饮+住宿等生活费用大概在6000-10000元左右** 
 
 以下是公寓的图片参考  
-白领公寓：        
-
+        
+### 民房：
+		
 ![](https://hcdn1.luffycity.com/data/knight/01.jpg)  
 
 ![](https://hcdn1.luffycity.com/data/knight/02.jpg)  
 
 ![](https://hcdn1.luffycity.com/data/knight/03.jpg)  
 
-民房：  
-
+  
+### 白领公寓：
 
 ![](https://hcdn1.luffycity.com/data/knight/04.jpg)  
 
