@@ -58,7 +58,7 @@
 * [【热】师兄分享](bro/README.md)
   * [【学员分享】我的学习之路](bro/chapter01.md)
   * [【学员分享】学习碎碎念](bro/chapter02.md)
-  * [【学员分享】31岁印刷厂美工转型Python](bro/chapter03.md)
+  * [【学员分享】31岁印刷厂美工转型Linux](bro/chapter03.md)
   * [【学员分享】我眼中的培训班](bro/chapter04.md)
   * [【学员分享】金融博士学习Python](bro/chapter05.md)
 * [联系我们](contact.md)
