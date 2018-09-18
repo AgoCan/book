@@ -11,4 +11,5 @@
 - [努力学习的意义到底在哪里？](https://www.luffycity.com/qsjh-book/diary/chapter09.html)  
 - [today，大佬从北京来到了深圳](https://www.luffycity.com/qsjh-book/diary/chapter10.html)   
 - [除甲醛...我们是认真的  ](https://www.luffycity.com/qsjh-book/diary/chapter11.html)   
+- [骑士计划的首个技术：读书 ](https://www.luffycity.com/qsjh-book/diary/chapter12.html)   
 - 待续...
