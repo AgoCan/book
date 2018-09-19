@@ -11,7 +11,7 @@
 - [你是怎样通过学习改变命运的？](https://www.luffycity.com/qsjh-book/diary/chapter08.html)  
 - [努力学习的意义到底在哪里？](https://www.luffycity.com/qsjh-book/diary/chapter09.html)  
 - [today，大佬从北京来到了深圳](https://www.luffycity.com/qsjh-book/diary/chapter10.html)   
-- [除甲醛...我们是认真的  ](https://www.luffycity.com/qsjh-book/diary/chapter11.html)   
+- [为何要把钱花在看不到的地方？](https://www.luffycity.com/qsjh-book/diary/chapter11.html)   
 - [骑士计划的首个读书计划  ](https://www.luffycity.com/qsjh-book/diary/chapter12.html)   
 - 待续...
 

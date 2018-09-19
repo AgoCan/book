@@ -12,7 +12,7 @@
   * [你是怎样通过学习改变命运的？](diary/chapter08.md)  
   * [努力学习的意义到底在哪里？](diary/chapter09.md)  
   * [大佬从北京到深圳啦](diary/chapter10.md)  
-  * [除甲醛...我们是认真的](diary/chapter11.md)  
+  * [为何要把钱花在看不到的地方](diary/chapter11.md)  
   * [骑士计划的首个读书计划](diary/chapter12.md)  
   * [待续...]()
 * [为什么公司不愿意要培训机构出来的学生？](advertorial.md)
