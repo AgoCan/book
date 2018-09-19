@@ -44,7 +44,6 @@
 
 敲黑板划重点，接下来要放大招了！
 
-![](https://hcdn1.luffycity.com/data/knight/diary/08/04.jpg)  
 
 ***
 
