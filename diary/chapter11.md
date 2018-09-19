@@ -47,7 +47,7 @@
 
 ***
 
-<iframe style="width:90%;height:360px;"  src="//player.bilibili.com/player.html?aid=31905486&cid=55804257&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<!-- <iframe style="width:90%;height:360px;"  src="//player.bilibili.com/player.html?aid=31905486&cid=55804257&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe> -->
 
 **骑士计划二期即将于10.16号开班，开设Python全栈脱产班**
 
