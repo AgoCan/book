@@ -7,7 +7,7 @@
 [咨询：http://sz.oldboyedu.com](http://www9.53kf.com/webCompany.php?style=1&arg=10155416)
 
 扫码关注最新优惠及校区动态~
-![](https://hcdn1.luffycity.com/data/knight/diary/11/10.jpg)
+![](https://hcdn1.luffycity.com/data/knight/diary/12/qsjh.jpg)
 
 
 Tel: 400-609-2893
