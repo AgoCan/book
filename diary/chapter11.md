@@ -83,7 +83,7 @@
 - [努力学习的意义到底在哪里？](https://www.luffycity.com/qsjh-book/diary/chapter09.html)  
 - [today，大佬从北京来到了深圳](https://www.luffycity.com/qsjh-book/diary/chapter10.html)   
 - [为何要把钱花在看不到的地方](https://www.luffycity.com/qsjh-book/diary/chapter11.html)   
-- [骑士计划的首个读书计划 ](https://www.luffycity.com/qsjh-book/diary/chapter12.html)   
+- [为了拯救传说中低情商的程序员，我们在一起干了这件事 ](https://www.luffycity.com/qsjh-book/diary/chapter12.html)   
 
 [为什么公司不愿意要培训机构出来的学生？](https://www.luffycity.com/qsjh-book/advertorial.html)
 
