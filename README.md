@@ -75,3 +75,13 @@
 - [【学员分享】31岁印刷厂美工转型Linux](https://www.luffycity.com/qsjh-book/bro/chapter03.html)
 
 [联系我们](https://www.luffycity.com/qsjh-book/contact.html)
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?5acb80dbfab84cdf5a7d41a8b3581049";
+  var s = document.getElementsByTagName("script")[0];
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>

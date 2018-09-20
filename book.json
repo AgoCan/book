@@ -27,7 +27,8 @@
     "prism",
     "prism-themes",
     "theme-comscore",
-    "local-video"
+    "local-video",
+    "3-ba"
 
   ],
   "pluginsConfig": {
@@ -35,6 +36,9 @@
         "cutWordLib": "nodejieba",
         "defineWord" : ["Gitbook Use"]
     },
+    "3-ba": {
+           "token": "5acb80dbfab84cdf5a7d41a8b3581049"
+       },
   "sharing": {
       "weibo": true,
       "facebook": true,
