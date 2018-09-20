@@ -5,3 +5,5 @@
 - [如何参与骑士计划](https://www.luffycity.com/qsjh-book/knight/chapter03.html)
 - [班型与时间](https://www.luffycity.com/qsjh-book/knight/chapter04.html)
 - [课程大纲](https://hcdn1.luffycity.com/data/knight/骑士计划-课程大纲.pdf)
+
+!INCLUDE "../baidujs.md"

@@ -12,3 +12,5 @@
 
 
 Tel: 400-609-2893
+
+!INCLUDE "baidujs.md"

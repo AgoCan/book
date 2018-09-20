@@ -18,3 +18,5 @@
 
 
 Good luck!
+
+!INCLUDE "../baidujs.md"

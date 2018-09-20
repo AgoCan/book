@@ -11,19 +11,19 @@
 
 日常餐饮每人尽不相同，校园周边餐饮价格在12-15元左右，一般来说一个月500-600元生活费足够。
 
-**整个学习周期下来，餐饮+住宿等生活费用大概在6000-10000元左右** 
+**整个学习周期下来，餐饮+住宿等生活费用大概在6000-10000元左右**
 
 以下是公寓的图片参考  
-        
+
 ### 民房：
-		
+
 ![](https://hcdn1.luffycity.com/data/knight/01.jpg)  
 
 ![](https://hcdn1.luffycity.com/data/knight/02.jpg)  
 
 ![](https://hcdn1.luffycity.com/data/knight/03.jpg)  
 
-  
+
 ### 白领公寓：
 
 ![](https://hcdn1.luffycity.com/data/knight/04.jpg)  
@@ -35,4 +35,4 @@
 ![](https://hcdn1.luffycity.com/data/knight/06.jpg)  
 
 
-
+!INCLUDE "../baidujs.md"

@@ -15,5 +15,7 @@ I made lots of new friends there, and they are all gold people---My fellow class
 
 I would like to say, from the bottom of my heart, Old-Boy is the most supreme Python training institution in China, which facilitates students who are keen on Python! Old-Boy is No.1 highly recommended training institution in my heart! I would say, this Python learning journey is one of the most amazing memory for me! Old-Boy, thank you!
 
- 
+
 ![](../static/boshi.png)
+
+!INCLUDE "../baidujs.md"

@@ -65,3 +65,5 @@
   * [【学员分享】我眼中的培训班](bro/chapter04.md)
   * [【学员分享】金融博士学习Python](bro/chapter05.md)
 * [联系我们](contact.md)
+
+!INCLUDE "baidujs.md"

@@ -5,3 +5,5 @@
 同时，我们还为你准备了早鸟礼包；
 
 ![](../static/02.png)
+
+!INCLUDE "../baidujs.md"

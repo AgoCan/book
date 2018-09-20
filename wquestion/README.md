@@ -7,3 +7,5 @@
 - [开设班型](https://www.luffycity.com/qsjh-book/wquestion/chapter04.html)
 - [周末班学习时间安排](https://www.luffycity.com/qsjh-book/wquestion/chapter05.html)
 - [适应人群](https://www.luffycity.com/qsjh-book/wquestion/chapter06.html)
+
+!INCLUDE "../baidujs.md"

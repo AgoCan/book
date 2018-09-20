@@ -6,3 +6,4 @@
 - [【学员分享】我眼中的培训班](https://www.luffycity.com/qsjh-book/bro/chapter04.html)
 - [【学员分享】金融博士学习Python](https://www.luffycity.com/qsjh-book/bro/chapter05.html)
 
+!INCLUDE "../baidujs.md"

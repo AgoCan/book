@@ -18,3 +18,5 @@
 - [【学员就业】Part06](https://www.luffycity.com/qsjh-book/jobs/chapter06.html)
 - [【学员就业】Part07](https://www.luffycity.com/qsjh-book/jobs/chapter07.html)
 - [【学员就业】Part08](https://www.luffycity.com/qsjh-book/jobs/chapter08.html)
+
+!INCLUDE "../baidujs.md"

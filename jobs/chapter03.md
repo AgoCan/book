@@ -8,3 +8,5 @@
 ***
 ***
 ![](https://hcdn1.luffycity.com/data/knight/img/010-1.png)
+
+!INCLUDE "../baidujs.md"

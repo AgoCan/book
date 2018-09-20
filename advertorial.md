@@ -187,6 +187,6 @@
 [点击咨询](http://wwwtb.53kf.com/webCompany.php?style=1&arg=10155416)
 
 
-
+!INCLUDE "baidujs.md"
 
 ***

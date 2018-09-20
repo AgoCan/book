@@ -7,3 +7,5 @@
 - [关于认识、格局、多维度发展的感触](https://www.luffycity.com/qsjh-book/soul/chapter05.html)
 - [给一位做技术迷茫的同学回信](https://www.luffycity.com/qsjh-book/soul/chapter06.html)
 - [不敢想](https://www.luffycity.com/qsjh-book/soul/chapter07.html)
+
+!INCLUDE "../baidujs.md"
