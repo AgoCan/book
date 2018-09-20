@@ -4,7 +4,7 @@
 
 [网址：http://sz.oldboyedu.com](http://sz.oldboyedu.com)
 
-[咨询：http://sz.oldboyedu.com](http://www9.53kf.com/webCompany.php?style=1&arg=10155416)
+[咨询：Click here](http://www9.53kf.com/webCompany.php?style=1&arg=10155416)
 
 **扫码关注最新优惠及校区动态~**
 
