@@ -14,6 +14,7 @@
   * [大佬从北京到深圳啦](diary/chapter10.md)  
   * [为何要把钱花在看不到的地方](diary/chapter11.md)  
   * [为了拯救传说中低情商的程序员，我们在一起干了这件事](diary/chapter12.md)  
+  * [偷偷告诉你，我们又给学员发福利啦](diary/chapter13.md)  
   * [待续...]()
 * [为什么公司不愿意要培训机构出来的学生？](advertorial.md)
 * [骑士计划](knight/README.md)

@@ -13,6 +13,7 @@
 - [today，大佬从北京来到了深圳](http://book.luffycity.com/qsjh-book/diary/chapter10.html)   
 - [为何要把钱花在看不到的地方？](http://book.luffycity.com/qsjh-book/diary/chapter11.html)   
 - [为了拯救传说中低情商的程序员，我们在一起干了这件事  ](http://book.luffycity.com/qsjh-book/diary/chapter12.html)   
+- [偷偷告诉你，我们又给学员发福利啦](http://book.luffycity.com/qsjh-book/diary/chapter13.html)   
 - 待续...
 
 
