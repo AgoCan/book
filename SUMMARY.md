@@ -1,6 +1,6 @@
 # Table of contents
 
-* [首页/目录](README.md)
+* [骑士计划](README.md)
 * [【 ! 热】分校日记](diary/README.md)
   * [第一天](diary/chapter01.md)
   * [第二天](diary/chapter02.md)  
