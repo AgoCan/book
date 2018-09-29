@@ -1,7 +1,8 @@
 {
-  "title": "老男孩教育-骑士计划书",
-  "description": "come from luffycity",
-  "author":"alex",
+  "title": "老男孩教育-骑士计划",
+  "keywords": "骑士计划，骑士计划python，骑士计划深圳，Python培训,Python培训课程,Python开发培训,Python学习,Python开发,Python培训,人工智能培训",
+  "description": "骑士计划Python学院。目前Python课程已广泛应用于互联网各个行业，老男孩教育结合市场需求，推出骑士计划高端教育品牌；开设了体系完善、学以致用的Python+人工智能开发培训课程。",
+  "author":"骑士计划-python",
   "language": "zh-hans",
   "links" : {
     "sidebar" : {
@@ -28,13 +29,23 @@
     "prism-themes",
     "theme-comscore",
     "local-video",
-    "include"
+    "include",
+    "favicon"
 
   ],
   "pluginsConfig": {
     "search-pro": {
         "cutWordLib": "nodejieba",
         "defineWord" : ["Gitbook Use"]
+    },
+    "favicon": {
+           "shortcut": "https://hcdn1.luffycity.com/data/knight/icon//favicon.ico",
+           "bookmark": "https://hcdn1.luffycity.com/data/knight/icon//favicon.ico",
+           "appleTouch": "https://hcdn1.luffycity.com/data/knight/icon/icon.png",
+           "appleTouchMore": {
+               "120x120": "https://hcdn1.luffycity.com/data/knight/icon/icon.png",
+               "180x180": "https://hcdn1.luffycity.com/data/knight/icon/icon.png"
+           }
     },
     "3-ba": {
            "token": "5acb80dbfab84cdf5a7d41a8b3581049"
