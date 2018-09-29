@@ -1,12 +1,12 @@
 {
   "title": "老男孩教育-骑士计划",
   "keywords": "骑士计划，骑士计划python，骑士计划深圳，Python培训,Python培训课程,Python开发培训,Python学习,Python开发,Python培训,人工智能培训",
-  "description": "骑士计划Python学院。目前Python课程已广泛应用于互联网各个行业，老男孩教育结合市场需求，推出骑士计划高端教育品牌；开设了体系完善、学以致用的Python+人工智能开发培训课程。",
+  "description": "骑士计划Python学院;目前Python课程已广泛应用于互联网各个行业，老男孩教育结合市场需求，推出骑士计划高端教育品牌；开设了体系完善、学以致用的Python+人工智能开发培训课程。",
   "author":"骑士计划-python",
   "language": "zh-hans",
   "links" : {
     "sidebar" : {
-        "骑士计划【官】" : "https://sz.oldboyedu.com/"
+        "骑士计划【官】" : "https://sz.oldboyedu.com/?path=qisj-book"
     }
   },
   "theme-default": {
